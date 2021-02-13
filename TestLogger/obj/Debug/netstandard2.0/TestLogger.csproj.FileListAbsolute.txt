@@ -1,0 +1,9 @@
+C:\Users\YUUKI\source\repos\TestLogger\TestLogger\obj\Debug\netstandard2.0\TestLogger.csprojAssemblyReference.cache
+C:\Users\YUUKI\source\repos\TestLogger\TestLogger\obj\Debug\netstandard2.0\TestLogger.AssemblyInfoInputs.cache
+C:\Users\YUUKI\source\repos\TestLogger\TestLogger\obj\Debug\netstandard2.0\TestLogger.AssemblyInfo.cs
+C:\Users\YUUKI\source\repos\TestLogger\TestLogger\obj\Debug\netstandard2.0\TestLogger.csproj.CoreCompileInputs.cache
+C:\Users\YUUKI\source\repos\TestLogger\TestLogger\bin\Debug\netstandard2.0\TestLogger.deps.json
+C:\Users\YUUKI\source\repos\TestLogger\TestLogger\bin\Debug\netstandard2.0\TestLogger.dll
+C:\Users\YUUKI\source\repos\TestLogger\TestLogger\bin\Debug\netstandard2.0\TestLogger.pdb
+C:\Users\YUUKI\source\repos\TestLogger\TestLogger\obj\Debug\netstandard2.0\TestLogger.dll
+C:\Users\YUUKI\source\repos\TestLogger\TestLogger\obj\Debug\netstandard2.0\TestLogger.pdb

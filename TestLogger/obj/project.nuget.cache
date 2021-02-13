@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "HFqwA0a8DViyYnt3vObvf4RAR7tFucP/W17NRvWhjOBsA9S2KsdCXUUDTFJpu9EJaVdeaGV/hB81SC+euqR+rg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\YUUKI\\source\\repos\\TestLogger\\TestLogger\\TestLogger.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\YUUKI\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\YUUKI\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
